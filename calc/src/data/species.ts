@@ -5150,7 +5150,6 @@ const XY_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   Azumarill: {types: ['Water', 'Fairy'], bs: {sa: 60}},
   Azurill: {types: ['Normal', 'Fairy']},
   Banette: {otherFormes: ['Banette-Mega']},
-  Beautifly: {bs: {sa: 100}},
   Beedrill: {bs: {at: 90}, otherFormes: ['Beedrill-Mega']},
   Bellossom: {bs: {df: 95}},
   Blastoise: {otherFormes: ['Blastoise-Mega']},
