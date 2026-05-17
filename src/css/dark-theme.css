@@ -15,7 +15,7 @@
 
 html, body {
     color: var(--text);
-    background-image: url('../img/asl_bg2.png');
+    background-image: url('../img/asl_bg.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
