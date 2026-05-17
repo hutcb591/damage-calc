@@ -15,7 +15,10 @@
 
 html, body {
     color: var(--text);
-    background-color: var(--background);
+    background-image: url('../img/asl_bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     color-scheme: dark;
 }
 a {
